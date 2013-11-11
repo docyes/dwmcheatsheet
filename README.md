@@ -8,3 +8,5 @@ dwm Cheat Sheet
     [Alt]+[p]
 ###### Switch Workspace (Tag)
     [Alt]+[1:9]
+###### Toggle Master/Stack
+    [Alt]+[Enter]
