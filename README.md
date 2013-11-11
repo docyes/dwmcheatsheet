@@ -9,3 +9,6 @@ Quit Window Manager
 Find/Run Program
 -------------
     [Alt]+[p]
+Switch Workspace (Tag)
+-------------
+[Alt]+[1:9]
