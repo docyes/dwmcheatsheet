@@ -1,4 +1,4 @@
-dwmcheatsheet
-=============
+dwm Cheat Sheet
+================================
 
-dwm cheat sheet
+
