@@ -6,3 +6,6 @@ Close Window
 Quit Window Manager
 -------------
     [Shift]+[Alt]+[q]
+Find/Run Program
+-------------
+    [Alt]+[p]
