@@ -7,4 +7,4 @@ dwm Cheat Sheet
 ###### Find/Run Program
     [Alt]+[p]
 ###### Switch Workspace (Tag)
-[Alt]+[1:9]
+    [Alt]+[1:9]
