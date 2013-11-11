@@ -1,14 +1,10 @@
 dwm Cheat Sheet
 ================================
-Close Window
--------------
+###### Close Window
     [Shift]+[Alt]+[c]
-Quit Window Manager
--------------
+###### Quit Window Manager
     [Shift]+[Alt]+[q]
-Find/Run Program
--------------
+###### Find/Run Program
     [Alt]+[p]
-Switch Workspace (Tag)
--------------
+###### Switch Workspace (Tag)
 [Alt]+[1:9]
