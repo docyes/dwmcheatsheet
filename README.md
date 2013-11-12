@@ -3,18 +3,18 @@ dwm Cheat Sheet
 ###### Close Window
 `Shift`+`Alt`+`c`
 ###### Window Focus Left
-    [Alt]+[j]
+`Alt`+`j`
 ###### Window Focus Right
-    [Alt]+[k]
+`Alt`+`k`
 ###### Find/Run Program
-    [Alt]+[p]
+`Alt`+`p`
 ###### Toggle Master/Stack
-    [Alt]+[Enter]
+`Alt`+`Enter`
 ###### Switch Workspace (Tag)
-    [Alt]+[1:9]
+`Alt`+`1:9`
 ###### Send Window To Workspace (Tag)
-    [Shift]+[Alt]+[1:9]
+`Shift`+`Alt`+`1:9`
 ###### Quit Window Manager
-    [Shift]+[Alt]+[q]
+`Shift`+`Alt`+`q`
     
     
