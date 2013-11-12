@@ -1,7 +1,7 @@
 dwm Cheat Sheet
 ================================
 ###### Close Window
-    [Shift]+[Alt]+[c]
+`Shift`+`Alt`+`c`
 ###### Window Focus Left
     [Alt]+[j]
 ###### Window Focus Right
