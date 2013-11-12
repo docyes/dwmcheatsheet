@@ -2,6 +2,10 @@ dwm Cheat Sheet
 ================================
 ###### Close Window
     [Shift]+[Alt]+[c]
+###### Window Focus Left
+    [Alt]+[j]
+###### Window Focus Right
+    [Alt]+[k]
 ###### Find/Run Program
     [Alt]+[p]
 ###### Toggle Master/Stack
